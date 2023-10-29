@@ -6,6 +6,7 @@ declare global {
   }
   type SliderItemProps = {
     backgroundUrl: string,
+    backgroundColor?: string,
   }
 }
 export {};
